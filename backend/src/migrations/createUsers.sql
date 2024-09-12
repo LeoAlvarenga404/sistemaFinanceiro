@@ -7,6 +7,6 @@ CREATE TABLE Users (
     password NVARCHAR(255) NOT NULL,            
     date_birthday DATE NULL,                
     cell NVARCHAR(20) NULL,              
-    create_at DATETIME DEFAULT GETDATE(),  
+    created_at DATETIME DEFAULT GETDATE(),  
     role NVARCHAR(20) DEFAULT 'User',             
 )
