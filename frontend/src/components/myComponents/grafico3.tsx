@@ -22,7 +22,7 @@ export const description = "A radar chart"
 
 const chartData = [
   { month: "January", desktop: 186 },
-  { month: "February", desktop: 305 },
+  { month: "February", desktop: 176 },
   { month: "March", desktop: 237 },
   { month: "April", desktop: 273 },
   { month: "May", desktop: 209 },

@@ -140,7 +140,7 @@ export function GraficoInterativo() {
   )
 
   return (
-    <Card className="w-full h-full border-zinc-950">
+    <Card className="w-3/4 h-full border-zinc-950">
       <CardHeader className="flex flex-col items-stretch space-y-0 border-b p-0 sm:flex-row border-zinc-900">
         <div className="flex flex-1 flex-col justify-center gap-1 px-6 py-5 sm:py-6">
           <CardTitle>Bar Chart - Interactive</CardTitle>
